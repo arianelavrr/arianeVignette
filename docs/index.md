@@ -14,8 +14,8 @@ title: Vue d'ensemble du projet
 
 !!! info "Informations générales"
     **Session**: Été 2026  
-    **Auteur(s)**: Léa Hemidj (), Ariane Laverrière (20248561),     
-    **Thème(s)**: <!-- Thèmes principaux abordés dans le projet  -->  
+    **Auteur(s)**: Léa Hemidj, Ariane Laverrière, Titouan Johanny, Marina Traore    
+    **Thème(s)**: Préservation/Documentation des langues, communauté et collaboration   
     **Superviseur(s)**: Louis-Edouard Lafontant     
     **Collaborateur(s):** <!-- Nom de(s) collaborateur(s) et partenaire(s)` -->  
 
@@ -63,12 +63,12 @@ Voici les grandes étapes principales:
 
 ### Validation et Évaluation
 
-> Indiquez comment vous évaluerez que votre solution répond aux objectifs du projet (ex. scénarios d’usage, tests, retours utilisateurs, indicateurs qualitatifs ou quantitatifs).
+Pour évaluer ce projet, nous utiliserons plusieurs méthodes de validation pour s'assurer du bon fonctionnement et de l'utilisabilité de Vignette. D’abord, des scénarios d’usage représentatifs seront utilisés afin de vérifier que les utilisateurs peuvent accomplir les tâches principales prévues, telles que consulter une vignette, écouter un enregistrement audio, participer à une discussion, ou soumettre une demande d’accréditation. Des tests fonctionnels permettront ensuite de valider le bon fonctionnement des différentes fonctionnalités et leur intégration avec l’API backend. L’expérience utilisateur sera également évaluée à travers des retours qualitatifs obtenus auprès d’utilisateurs potentiels. Une attention particulière sera portée à la facilité de navigation, à la compréhension des interfaces et à l’accessibilité des fonctionnalités communautaires.
 
 
 ## Équipe
 
-> Présentez les membres de l’équipe et le rôle principal de chacun dans le projet.
+Nous sommes trois à travailler sur le projet cet été, Léa s'occupe du côté studio du projet, je m'occupe de la façade communauté et Marina s'occupe du backend. 
 
 ## Échéancier
 
