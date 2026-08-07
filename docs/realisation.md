@@ -31,6 +31,7 @@ title: Travail réalisé
 > - technologies utilisées ;
 > - environnement de développement ;
 > - outils ou services externes.
+Le projet comporte une architecture full-stack, avec une séparation claire entre le backend et le frontend, et utilise une API REST, ainsi que SSE pour des updates en temps réel. L'entièreté du backend a été réalisé par un autre élève au trimestre précédent, donc notre tâche principale était le frontend, mais nous avons quand même travaillé sur le backend. Vignette est divisé en plusieurs parties différentes, dont le volet communauté, qui est le volet sur lequel je me suis concentré, mais il y aussi le volet studio qui permet aux utilisateurs de créer des scénarios (storyboard). Il y aussi le module langues qui contient les données Glottolog. Le module communauté contient tout ce qui est les discussions, likes, bookmarks, notifications, accréditation, copie d'un scénario, collaboration, etc. Pour ce qui est de la structure des données, on utilise PostGreSQL en production et H2 en développement pour être plus rapide. Nous utisons aussi des migrations Flyway pour garantir la compatibilité des deux. JPA/Hibernate est utilisé pour faire le pont entre le code Java et SQL. Les tests sont réalisés à l'aide de Mockito. Au niveau des technologies utilisées, pour le backend nous avons Spring Boot avec Java, et pour le frontend nous avons Vue 3. Un outil trés important de ce projet est un service externe, Glottolog, qui sert de source de donnée linguistique. 
 
 ### Fonctionnalités ou composantes réalisées
 

@@ -22,50 +22,24 @@ title: Études préliminaires
 
 ### Compréhension du problème
 
-> Présentez votre compréhension du problème ou du besoin auquel le projet cherche à répondre.
+Depuis des siècles la méthode principale de documentation des langues est l'écriture, mais que ce passe-t'il lorsqu'une langue n'a pas d'alphabet écrit? Ou bien encore si elle ne se transmet seulement qu'à l'oral? Ceci est un des problèmes principals derrière la création de Vignette, la transmission des langues d'une manière atypique qui permettrait de documenter le plus de langues possibles.
 
 ### Analyse des solutions ou approches existantes
 
-> Présentez les outils, systèmes, approches ou projets similaires pertinents au projet.
->
-> Vous pouvez discuter :
->
-> - des forces et limites ;
-> - des technologies utilisées ;
-> - des fonctionnalités offertes ;
-> - des approches de conception.
+Plusieurs systèmes et outils de documentation des langues existent déjà, mais ils sont tous assez similaire, avec leurs forces et leurs faiblesses. Il y a par example ELAN et Praat, deux outils qui permettent la conservation des langues. Le premier permet aux chercheurs d'annoter des audios et vidéos pour les traduire, tandis que le deuxième facilite l'analyse scientifique des languages parlés. On remarque que la plupart des outils déjà créer servent uniquement de base de donnée scientifique et ne permet pas nécessairement aux cultures en question de s'intégrer. Nous avons donc approché ce projet en sachant que nous voulions mélanger les deux, l'aspect scientifique et culturelle. 
 
 ### Contraintes et besoins
 
-> Présentez les principales contraintes du projet :
->
-> - techniques ;
-> - humaines ;
-> - matérielles ;
-> - organisationnelles ;
-> - temporelles.
+Vignette peut être utilisé par des chercheurs ainsi que des gens ordinaires, donc nous ne pouvons pas utilisé trop de termes techniques. Cet outil doit être assez simple d'usage aussi pour permettre à un plus grand public de participer, l'UI ne doit pas être trop compliqué. Nous voulons aussi que Vignette fonctionne sur différents types d'appareils, on doit donc adapter le code en conséquence. De plus, le projet doit être complété vers le mois d'août pour respecter la date limite.
 
 ### Explorations techniques ou conceptuelles
 
-> Présentez les premiers tests, prototypes, validations ou explorations réalisés :
->
-> - technologies testées ;
-> - essais d’architecture ;
-> - expériences ;
-> - validation d’idées ;
-> - maquettes ou esquisses.
+Nous avons ajouté des fichiers tests à chaque fois qu'il y avait quelque chose de nouveau au code, donc ceci nous sert de base pour tester tous nos ajouts. De plus, nous avons faites une démonstration en direct de Vignette lors d'une rencontre avec les autres équipes, ce qui nous a donné une opportunité d'obtenir du feedback. Il y aura aussi une deuxième session d'essai réalisé avec des étudiants en langue. Pour ce qui est des explorations conceptuelles, nous avions brièvement exploré l'idée d'ajouter un thème au projet. Les thèmes de couleurs ont été discuté pleinement et plusieurs ont été exploré, comme un thème majoritairement orange, ou encore un thème avec beaucoup de rose. 
 
 ### Choix retenus
 
-> Expliquez les choix effectués pour la suite du projet et les raisons derrière ces décisions.
+Pour ce qui est des couleurs, le orange et le rose ont été laissé de côté pour à la place prioriser des couleurs plus neutres se rapprochant de la nature. Le projet Vignette, avec toutes les cultures rassemblées sur cette plateforme, nous rappelait la nature. Nous avons aussi opté pour un rouge vin foncé pour ajouté du contraste. L'idée du thème a été rapidement rejeté, puisqu'elle s'éloignait des buts et valeurs principales de Vignette. 
 
 ### Références
 
-> Ajoutez les principales références utilisées :
->
-> - documentation ;
-> - articles ;
-> - tutoriels ;
-> - projets similaires ;
-> - bibliothèques ;
-> - normes ou ressources techniques.
+Le site suivant nous a permit de trouver un template de globe pour ajouter sur la page principale, c'est un outil pratique pour développer des sites webs ou autres : https://21st.dev . 
